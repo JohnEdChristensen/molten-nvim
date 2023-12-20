@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/benlubas/molten-nvim/compare/v1.2.0...v1.2.1) (2023-12-20)
+
+
+### Bug Fixes
+
+* status methods in unfamiliar buffer ([#91](https://github.com/benlubas/molten-nvim/issues/91)) ([23e0c79](https://github.com/benlubas/molten-nvim/commit/23e0c79d190d861348733c526a40e7b8ce141c98))
+
 ## [1.2.0](https://github.com/benlubas/molten-nvim/compare/v1.1.6...v1.2.0) (2023-12-16)
 
 
